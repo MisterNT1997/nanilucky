@@ -1,0 +1,5 @@
+
+RewriteEngine On
+
+RewriteRule ^collect/([a-zA-z0-9_-]+) index.php?col=$1
+RewriteRule ^user/([0-9]+) index.php?col=$1
