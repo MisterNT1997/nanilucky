@@ -1,6 +1,8 @@
 # NaniLucky Script
 สคริปเว็บเก็บแต้มแลกของ ปล.ทำไว้นานแล้ว
 
+![Sc1](screenshot/sc1.png)
+
 ## หน้าที่ต้องแก้ไข connect.php
 ```php
 try {
