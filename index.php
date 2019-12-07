@@ -223,6 +223,5 @@ echo '</div></section>';
 <script src="dist/main.js" type="text/javascript"></script>
 
 
-<script>console.log("Injection & Cheker By PernYrenCraft , https://pernyrencraft.me");</script>
 
 </body></html>
